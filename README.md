@@ -11,11 +11,5 @@
     <rect rx="0" x="47.0" width="4" height="20" fill="#44cc11"/>
     <rect rx="3" x="47.0" width="65.0" height="20" fill="#44cc11"/>
     
-    <rect rx="3" width="112.0" height="20" fill="url(#a)"/>
-    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="24.5" y="15" fill="#010101" fill-opacity=".3">build</text>
-        <text x="24.5" y="14">build</text>
-        <text x="78.5" y="15" fill="#010101" fill-opacity=".3">passing</text>
-        <text x="78.5" y="14">passing</text>
-    </g>
+    hi
 </svg>
